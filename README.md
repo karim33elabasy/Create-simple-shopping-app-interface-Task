@@ -12,3 +12,6 @@ Project files are organized as :
  - Widgets : where to save widgets files
  - model : to save data models
  - data : to save testing data that mimics the real data
+
+   
+![shopping_app_screenshot](https://github.com/user-attachments/assets/51fdb762-23fa-48cb-b95b-ed6e765c81ce)
